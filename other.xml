@@ -59,6 +59,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
   </component>
   <component name="SvnApplicationSettings">
     <option name="mySvnCommandLine" value="c:\Program Files\TortoiseSVN\bin\svn" />

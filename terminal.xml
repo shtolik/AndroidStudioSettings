@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="d:\proging\Git\Bash-AndroidStudio.bat" />
+    <option name="myShellPath" value="c:\proging\Git\Bash-AndroidStudio.bat" />
   </component>
 </application>

@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>72</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'installed'">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">

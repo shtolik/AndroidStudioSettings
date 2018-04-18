@@ -161,6 +161,14 @@
           <Count>40</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+T'</ShortCut>
+          <Description>Refactor This...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Replace in Path...">
         <Item>
           <IdeaActionID>ReplaceInPath</IdeaActionID>

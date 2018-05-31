@@ -45,6 +45,9 @@
     </option>
     <option name="cloneParentDir" value="m:\work\workspace\opensrc\" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="G:\work\workspace\opensrc\Badger" />
   </component>

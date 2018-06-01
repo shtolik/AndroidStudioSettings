@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>184</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'installed'">

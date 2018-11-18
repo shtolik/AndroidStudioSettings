@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>216</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'installed'">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Module 'android-architecture'">
@@ -190,7 +190,15 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>58</Count>
+          <Count>59</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Find Usages">
+        <Item>
+          <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
+          <ShortCut>'Ctrl+E'</ShortCut>
+          <Description>Recent Find Usages</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
@@ -278,7 +286,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'installed'">

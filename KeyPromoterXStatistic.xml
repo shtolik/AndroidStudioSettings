@@ -105,14 +105,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'app'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
-          <Description>Debug 'app'</Description>
-          <Count>244</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'installed'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -387,6 +379,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug 'app'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
+          <Description>Debug 'app'</Description>
+          <Count>246</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>

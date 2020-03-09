@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="g:\work\android\bash_android_studio.bat" />
+  </component>
+</application>

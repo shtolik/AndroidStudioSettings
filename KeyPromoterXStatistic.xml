@@ -249,6 +249,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reword...">
+        <Item>
+          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
+          <ShortCut>'Alt+Shift+R'</ShortCut>
+          <Description>Reword...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -318,7 +326,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">

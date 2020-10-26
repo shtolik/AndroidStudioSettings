@@ -1,7 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="BASE-8210 Image in floorplan placeholder (with it's verison &gt; 1) disappears after downloading all images in task" />
+    <option name="defaultScopeName" value="BASE-8210 Image in floorplan placeholder (with it's verison &gt; 1) disappears after downloading all images in task" />
+    <option name="SEARCH_SCOPE" value="BASE-8210 Image in floorplan placeholder (with it's verison &gt; 1) disappears after downloading all images in task" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*presenter*</mask>
   </component>
 </application>

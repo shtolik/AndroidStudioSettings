@@ -3,15 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Module.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*presenter*</mask>
     <mask>*.java</mask>
-    <mask>*ViewImpl.java</mask>
-    <mask>*Module.java</mask>
+    <mask>*presenter*</mask>
   </component>
 </application>

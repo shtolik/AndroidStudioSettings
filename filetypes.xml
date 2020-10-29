@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="WikiImagesModel" type="CLASS" />
-      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

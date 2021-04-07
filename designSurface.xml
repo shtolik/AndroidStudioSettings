@@ -4,7 +4,9 @@
       <map>
         <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/drawable-nodpi/rounded_corner_background_yellow.xml" value="0.1" />
         <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/drawable-nodpi/selectable_rounded_button_bg.xml" value="0.1" />
+        <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/drawable/ic_flash.xml" value="0.2734375" />
         <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/drawable/ic_flash_auto.xml" value="0.269140625" />
+        <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/drawable/ic_flash_off.xml" value="0.2734375" />
         <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/layout-land/activity_import_image.xml" value="0.2777777777777778" />
         <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/layout-sw600dp/row_case.xml" value="0.67" />
         <entry key="..\:/work/workspace/android_task_reporter/app/src/main/res/layout/activity_import_video.xml" value="0.1" />
